@@ -1,0 +1,1032 @@
+/* screen - worldpagemobile */
+
+.worldpagemobile {
+  align-items: flex-start;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 1257px;
+  overflow-x: hidden;
+  position: relative;
+  width: 320px;
+}
+
+.worldpagemobile .overlap-group2-OCJS7N {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 568px;
+  position: relative;
+  width: 320px;
+}
+
+.worldpagemobile .background-HB3q4f {
+  align-items: flex-start;
+  background-color: transparent;
+  background-image: url(../img/world-page-region-selected-mobile-rectangle-44E5E924-31BA-4B2F-BA00-EE2171D7E3AE.jpg);
+  background-position: 50% 50%;
+  background-size: cover;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 568px;
+  justify-content: flex-start;
+  left: 0px;
+  min-width: 320px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.worldpagemobile .rectangle-kN7LK9 {
+  background: radial-gradient(50% 79%, rgba(75,29,93,0.14) 50%, rgba(51,23,74,0.69) 69%, #26143E 80%);
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 568px;
+  position: relative;
+  width: 320px;
+}
+
+.worldpagemobile .logo-copy-3-HB3q4f {
+  background-color: transparent;
+  background-image: url(../img/character-page-mobile-purple-84A9FF40-81F6-472D-A5D9-7C4529CAD2B1@2x.png);
+  background-size: 100% 100%;
+  height: 60px;
+  left: 92px;
+  position: absolute;
+  top: 27px;
+  width: 135px;
+}
+
+.worldpagemobile .rectangle-HB3q4f {
+  background-color: var(--pearl-bush);
+  height: 460px;
+  left: 0px;
+  position: absolute;
+  top: 108px;
+  width: 320px;
+}
+
+.worldpagemobile .world-of-xantara-HB3q4f {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 67px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 125px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.worldpagemobile .region-2-copy-8-HB3q4f {
+  background-color: transparent;
+  height: 51px;
+  left: 167px;
+  position: absolute;
+  top: 517px;
+  width: 135px;
+}
+
+.worldpagemobile .rectangle-copy-1Vuys2 {
+  background-color: transparent;
+  height: 50px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 135px;
+}
+
+.worldpagemobile .rectangle-1Vuys2 {
+  background-color: var(--chicago);
+  height: 51px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 135px;
+}
+
+.worldpagemobile .ostley-1Vuys2 {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 13px;
+  white-space: nowrap;
+  width: 63px;
+}
+
+.worldpagemobile .region-2-copy-7-HB3q4f {
+  background-color: transparent;
+  height: 51px;
+  left: 17px;
+  position: absolute;
+  top: 517px;
+  width: 135px;
+}
+
+.worldpagemobile .rectangle-copy-ILpORX {
+  background-color: transparent;
+  height: 50px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 135px;
+}
+
+.worldpagemobile .rectangle-ILpORX {
+  background-color: var(--chicago);
+  height: 51px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 135px;
+}
+
+.worldpagemobile .ostley-ILpORX {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 13px;
+  white-space: nowrap;
+  width: 63px;
+}
+
+.worldpagemobile .region-2-copy-6-HB3q4f {
+  background-color: transparent;
+  height: 71px;
+  left: 167px;
+  position: absolute;
+  top: 431px;
+  width: 135px;
+}
+
+.worldpagemobile .rectangle-copy-GIHnyM {
+  background-color: transparent;
+  height: 70px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 135px;
+}
+
+.worldpagemobile .rectangle-GIHnyM {
+  background-color: var(--chicago);
+  height: 71px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 135px;
+}
+
+.worldpagemobile .ostley-GIHnyM {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.worldpagemobile .region-2-copy-5-HB3q4f {
+  background-color: transparent;
+  height: 71px;
+  left: 17px;
+  position: absolute;
+  top: 431px;
+  width: 135px;
+}
+
+.worldpagemobile .rectangle-copy-QSBFjp {
+  background-color: transparent;
+  height: 70px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 135px;
+}
+
+.worldpagemobile .rectangle-QSBFjp {
+  background-color: var(--chicago);
+  height: 71px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 135px;
+}
+
+.worldpagemobile .ostley-QSBFjp {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.worldpagemobile .region-2-copy-4-HB3q4f {
+  background-color: transparent;
+  height: 71px;
+  left: 167px;
+  position: absolute;
+  top: 345px;
+  width: 135px;
+}
+
+.worldpagemobile .rectangle-copy-GsfxVW {
+  background-color: transparent;
+  height: 70px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 135px;
+}
+
+.worldpagemobile .rectangle-GsfxVW {
+  background-color: var(--chicago);
+  height: 71px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 135px;
+}
+
+.worldpagemobile .ostley-GsfxVW {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.worldpagemobile .region-2-copy-3-HB3q4f {
+  background-color: transparent;
+  height: 71px;
+  left: 17px;
+  position: absolute;
+  top: 345px;
+  width: 135px;
+}
+
+.worldpagemobile .rectangle-copy-KJpGn4 {
+  background-color: transparent;
+  height: 70px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 135px;
+}
+
+.worldpagemobile .rectangle-KJpGn4 {
+  background-color: var(--chicago);
+  height: 71px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 135px;
+}
+
+.worldpagemobile .ostley-KJpGn4 {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.worldpagemobile .region-2-copy-2-HB3q4f {
+  background-color: transparent;
+  height: 71px;
+  left: 167px;
+  position: absolute;
+  top: 259px;
+  width: 135px;
+}
+
+.worldpagemobile .rectangle-copy-bpQBIv {
+  background-color: transparent;
+  height: 70px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 135px;
+}
+
+.worldpagemobile .rectangle-bpQBIv {
+  background-color: var(--chicago);
+  height: 71px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 135px;
+}
+
+.worldpagemobile .ostley-bpQBIv {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.worldpagemobile .region-2-copy-HB3q4f {
+  background-color: transparent;
+  height: 71px;
+  left: 17px;
+  position: absolute;
+  top: 259px;
+  width: 135px;
+}
+
+.worldpagemobile .rectangle-copy-gApY9p {
+  background-color: transparent;
+  height: 70px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 135px;
+}
+
+.worldpagemobile .rectangle-gApY9p {
+  background-color: var(--chicago);
+  height: 71px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 135px;
+}
+
+.worldpagemobile .ostley-gApY9p {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.worldpagemobile .region-2-HB3q4f {
+  background-color: transparent;
+  height: 71px;
+  left: 167px;
+  position: absolute;
+  top: 173px;
+  width: 135px;
+}
+
+.worldpagemobile .rectangle-copy-IUMFKk {
+  background-color: transparent;
+  height: 70px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 135px;
+}
+
+.worldpagemobile .rectangle-IUMFKk {
+  background-color: var(--chicago);
+  height: 71px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 135px;
+}
+
+.worldpagemobile .ostley-IUMFKk {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.worldpagemobile .region-HB3q4f {
+  background-color: transparent;
+  background-image: url(../img/world-page-mobile-rectangle-DDB0A911-B6D8-4D8C-8103-2AA1B02F3EEC.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 70px;
+  left: 17px;
+  position: absolute;
+  top: 173px;
+  width: 135px;
+}
+
+.worldpagemobile .rectangle-ZhCmtU {
+  background-color: var(--chicago);
+  height: 70px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 135px;
+}
+
+.worldpagemobile .sanra-ZhCmtU {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 38px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.worldpagemobile .footer-mobile-OCJS7N {
+  align-items: center;
+  background-color: var(--oxford-blue);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 0px;
+  min-height: 689px;
+  padding: 31px 0;
+  position: relative;
+  width: 320px;
+}
+
+.worldpagemobile .logo-7y3obz {
+  align-self: flex-start;
+  background-color: transparent;
+  background-image: url(../img/character-page-mobile-purple-84A9FF40-81F6-472D-A5D9-7C4529CAD2B1@2x.png);
+  background-size: 100% 100%;
+  flex-shrink: 1;
+  height: 60px;
+  margin-left: 18px;
+  margin-top: 0px;
+  position: relative;
+  width: 135px;
+}
+
+.worldpagemobile .join-my-newsletter-t-7y3obz {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 400;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  margin-right: 1.0px;
+  margin-top: 20px;
+  min-height: 34px;
+  min-width: 285px;
+  position: relative;
+  text-align: justify;
+  width: 285px;
+}
+
+.worldpagemobile .overlap-group-7y3obz {
+  align-items: flex-end;
+  background-color: var(--gallery);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 30px;
+  justify-content: flex-start;
+  margin-right: 1.0px;
+  margin-top: 18px;
+  min-width: 285px;
+  padding: 5px 13px;
+  position: relative;
+  width: auto;
+}
+
+.worldpagemobile .email-address-GOnrC3 {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  margin-left: 0px;
+  min-height: 19px;
+  min-width: 114px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: auto;
+}
+
+.worldpagemobile .overlap-group1-7y3obz {
+  align-items: center;
+  background-color: var(--jaffa);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 25px;
+  justify-content: flex-end;
+  margin-right: 1.0px;
+  margin-top: 0px;
+  min-width: 285px;
+  padding: 0 111px;
+  position: relative;
+  width: auto;
+}
+
+.worldpagemobile .subscribe-1p2ORc {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  min-height: 21px;
+  min-width: 62px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.worldpagemobile .home-7y3obz {
+  align-self: flex-start;
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  margin-left: 17px;
+  margin-top: 35px;
+  min-height: 19px;
+  min-width: 40px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: auto;
+}
+
+.worldpagemobile .line-7y3obz {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 2px;
+  margin-top: 8px;
+  position: relative;
+  width: 287px;
+}
+
+.worldpagemobile .read-7y3obz {
+  align-self: flex-start;
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  margin-left: 17px;
+  margin-top: 8px;
+  min-height: 19px;
+  min-width: 35px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: auto;
+}
+
+.worldpagemobile .line-copy-7y3obz {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 2px;
+  margin-top: 8px;
+  position: relative;
+  width: 287px;
+}
+
+.worldpagemobile .flex-row-7y3obz {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 19px;
+  justify-content: flex-start;
+  margin-right: 1.0px;
+  margin-top: 8px;
+  min-width: 285px;
+  position: relative;
+  width: auto;
+}
+
+.worldpagemobile .lore-KrdaI2 {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  min-height: 19px;
+  min-width: 30px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: auto;
+}
+
+.worldpagemobile .add_circle_outline-copy-2-KrdaI2 {
+  background-color: transparent;
+  background-image: url(../img/store-page-mobile-shape-FA581084-19A3-49F2-B232-3B86E3B17009@2x.png);
+  background-size: 100% 100%;
+  flex-shrink: 1;
+  height: 10px;
+  margin-left: 245px;
+  position: relative;
+  width: 10px;
+}
+
+.worldpagemobile .line-copy-2-7y3obz {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 2px;
+  margin-top: 8px;
+  position: relative;
+  width: 287px;
+}
+
+.worldpagemobile .flex-row-ckG5Dq {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 19px;
+  justify-content: flex-start;
+  margin-right: 1.0px;
+  margin-top: 8px;
+  min-width: 285px;
+  position: relative;
+  width: auto;
+}
+
+.worldpagemobile .store-4lt1RC {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  min-height: 19px;
+  min-width: 36px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: auto;
+}
+
+.worldpagemobile .add_circle_outline-copy-3-4lt1RC {
+  background-color: transparent;
+  background-image: url(../img/store-page-mobile-shape-FA581084-19A3-49F2-B232-3B86E3B17009@2x.png);
+  background-size: 100% 100%;
+  flex-shrink: 1;
+  height: 10px;
+  margin-left: 239px;
+  position: relative;
+  width: 10px;
+}
+
+.worldpagemobile .line-copy-3-7y3obz {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 2px;
+  margin-top: 8px;
+  position: relative;
+  width: 287px;
+}
+
+.worldpagemobile .flex-row-mj6BV9 {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 19px;
+  justify-content: flex-start;
+  margin-right: 1.0px;
+  margin-top: 8px;
+  min-width: 285px;
+  position: relative;
+  width: auto;
+}
+
+.worldpagemobile .community-gBaq99 {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  min-height: 19px;
+  min-width: 73px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: auto;
+}
+
+.worldpagemobile .add_circle_outline-copy-4-gBaq99 {
+  background-color: transparent;
+  background-image: url(../img/store-page-mobile-shape-FA581084-19A3-49F2-B232-3B86E3B17009@2x.png);
+  background-size: 100% 100%;
+  flex-shrink: 1;
+  height: 10px;
+  margin-bottom: 1px;
+  margin-left: 202px;
+  position: relative;
+  width: 10px;
+}
+
+.worldpagemobile .line-copy-4-7y3obz {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 2px;
+  margin-top: 8px;
+  position: relative;
+  width: 287px;
+}
+
+.worldpagemobile .flex-row-oMXkQw {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 19px;
+  justify-content: flex-start;
+  margin-right: 1.0px;
+  margin-top: 8px;
+  min-width: 285px;
+  position: relative;
+  width: auto;
+}
+
+.worldpagemobile .about-gGrKoY {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  min-height: 19px;
+  min-width: 41px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: auto;
+}
+
+.worldpagemobile .add_circle_outline-copy-5-gGrKoY {
+  background-color: transparent;
+  background-image: url(../img/store-page-mobile-shape-FA581084-19A3-49F2-B232-3B86E3B17009@2x.png);
+  background-size: 100% 100%;
+  flex-shrink: 1;
+  height: 10px;
+  margin-bottom: 1px;
+  margin-left: 234px;
+  position: relative;
+  width: 10px;
+}
+
+.worldpagemobile .line-copy-5-7y3obz {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 2px;
+  margin-top: 8px;
+  position: relative;
+  width: 287px;
+}
+
+.worldpagemobile .facebook-container-7y3obz {
+  align-items: flex-start;
+  align-self: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 20px;
+  justify-content: flex-start;
+  margin-left: 17px;
+  margin-top: 28px;
+  min-width: 99px;
+  position: relative;
+  width: auto;
+}
+
+.worldpagemobile .facebook-1gt90M {
+  background-color: transparent;
+  background-image: url(../img/world-page-mobile-path-91CECC77-1C3C-4870-97D5-486B414B5CF9@2x.png);
+  background-size: 100% 100%;
+  flex-shrink: 1;
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.worldpagemobile .facebook-YYPc2X {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  margin-left: 14px;
+  min-height: 19px;
+  min-width: 65px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: auto;
+}
+
+.worldpagemobile .instagram-container-7y3obz {
+  align-items: flex-end;
+  align-self: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 20px;
+  justify-content: flex-start;
+  margin-left: 17px;
+  margin-top: 23px;
+  min-width: 99px;
+  position: relative;
+  width: auto;
+}
+
+.worldpagemobile .instagram-07EwL5 {
+  align-items: flex-start;
+  background-color: transparent;
+  background-image: url(../img/lore-page-mobile-shape-DBC0EE37-B1C2-4711-AB27-5FBF42870FB7@2x.png);
+  background-size: 100% 100%;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 20px;
+  justify-content: flex-end;
+  min-width: 20px;
+  padding: 4px;
+  position: relative;
+  width: auto;
+}
+
+.worldpagemobile .shape-Wlh8ch {
+  align-self: center;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 10px;
+  position: relative;
+  width: 10px;
+}
+
+.worldpagemobile .oval-Wlh8ch {
+  background-color: var(--white);
+  border-radius: 1px;
+  flex-shrink: 1;
+  height: 1px;
+  margin-left: 0px;
+  position: relative;
+  width: 1px;
+}
+
+.worldpagemobile .instagram-HSoGNC {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  margin-left: 14px;
+  min-height: 19px;
+  min-width: 65px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: auto;
+}
+
+.worldpagemobile .x2021-olga-andreyev-7y3obz {
+  align-self: flex-start;
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  margin-left: 17px;
+  margin-top: 37px;
+  min-height: 14px;
+  min-width: 236px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: auto;
+}
+
+.worldpagemobile .privacy-policy-7y3obz {
+  align-self: flex-start;
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  margin-left: 17px;
+  margin-top: 11px;
+  min-height: 18px;
+  min-width: 112px;
+  position: relative;
+  text-align: justify;
+  width: 112px;
+}
+
+.worldpagemobile .terms-conditions-7y3obz {
+  align-self: flex-start;
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  margin-left: 17px;
+  margin-top: 6px;
+  min-height: 14px;
+  min-width: 99px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: auto;
+}

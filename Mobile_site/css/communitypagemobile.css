@@ -1,0 +1,848 @@
+/* screen - communitypagemobile */
+
+.communitypagemobile {
+  align-items: flex-start;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 2405px;
+  overflow-x: hidden;
+  position: relative;
+  width: 320px;
+}
+
+.communitypagemobile .overlap-group2-OBeZAs {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 1716px;
+  position: relative;
+  width: 326px;
+}
+
+.communitypagemobile .background-n43rGZ {
+  align-items: flex-start;
+  background-color: transparent;
+  background-image: url(../img/world-page-region-selected-mobile-rectangle-44E5E924-31BA-4B2F-BA00-EE2171D7E3AE.jpg);
+  background-position: 50% 50%;
+  background-size: cover;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 1716px;
+  justify-content: flex-start;
+  left: 0px;
+  min-width: 320px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.communitypagemobile .rectangle-PaY5IX {
+  background: radial-gradient(50% 79%, rgba(75,29,93,0.14) 50%, rgba(51,23,74,0.69) 69%, #26143E 80%);
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 1716px;
+  position: relative;
+  width: 320px;
+}
+
+.communitypagemobile .logo-copy-6-n43rGZ {
+  background-color: transparent;
+  background-image: url(../img/character-page-mobile-purple-84A9FF40-81F6-472D-A5D9-7C4529CAD2B1@2x.png);
+  background-size: 100% 100%;
+  height: 60px;
+  left: 92px;
+  position: absolute;
+  top: 27px;
+  width: 135px;
+}
+
+.communitypagemobile .rectangle-n43rGZ {
+  background-color: transparent;
+  height: 274px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 130px;
+  width: 320px;
+}
+
+.communitypagemobile .rectangle-sqZlCK {
+  background: linear-gradient(180deg, rgba(255,255,255,0.36) 0%, rgba(13,13,13,0.70) 97%);
+  background-color: transparent;
+  height: 276px;
+  left: 0px;
+  position: absolute;
+  top: 130px;
+  width: 320px;
+}
+
+.communitypagemobile .fan-art-showcase-n43rGZ {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-futura-bold);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 356px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.communitypagemobile .rectangle-xnzxQL {
+  background-color: var(--pearl-bush);
+  height: 138px;
+  left: 0px;
+  position: absolute;
+  top: 405px;
+  width: 320px;
+}
+
+.communitypagemobile .show-more-n43rGZ {
+  background-color: transparent;
+  font-weight: 500;
+  height: auto;
+  left: 123px;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  position: absolute;
+  text-align: left;
+  top: 515px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.communitypagemobile .rectangle-txxhWH {
+  background-color: transparent;
+  border: 1px solid;
+  border-color: var(--black);
+  height: 66px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 430px;
+  width: 60px;
+}
+
+.communitypagemobile .rectangle-copy-n43rGZ {
+  background-color: transparent;
+  border: 1px solid;
+  border-color: var(--black);
+  height: 66px;
+  left: 92px;
+  object-fit: cover;
+  position: absolute;
+  top: 430px;
+  width: 60px;
+}
+
+.communitypagemobile .rectangle-copy-2-n43rGZ {
+  background-color: transparent;
+  border: 1px solid;
+  border-color: var(--black);
+  height: 66px;
+  left: 167px;
+  object-fit: cover;
+  position: absolute;
+  top: 430px;
+  width: 60px;
+}
+
+.communitypagemobile .rectangle-copy-3-n43rGZ {
+  background-color: transparent;
+  border: 1px solid;
+  border-color: var(--black);
+  height: 66px;
+  left: 242px;
+  object-fit: cover;
+  position: absolute;
+  top: 430px;
+  width: 60px;
+}
+
+.communitypagemobile .rectangle-QZxAJx {
+  background-color: var(--oxford-blue);
+  height: 593px;
+  left: 0px;
+  position: absolute;
+  top: 543px;
+  width: 320px;
+}
+
+.communitypagemobile .rectangle-GFi4u6 {
+  background-color: var(--pearl-bush);
+  height: 580px;
+  left: 0px;
+  position: absolute;
+  top: 1136px;
+  width: 320px;
+}
+
+.communitypagemobile .support-my-patreon-n43rGZ {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 70px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  text-align: left;
+  top: 1160px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.communitypagemobile .rectangle-OQLtsA {
+  background-color: transparent;
+  height: 269px;
+  left: 9px;
+  position: absolute;
+  top: 1220px;
+  width: 317px;
+}
+
+.communitypagemobile .want-to-submit-an-il-n43rGZ {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-futura-bold);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  height: auto;
+  left: 32px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  text-align: left;
+  top: 573px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.communitypagemobile .rectangle-2uHNkb {
+  background-color: transparent;
+  height: 324px;
+  left: 9px;
+  position: absolute;
+  top: 633px;
+  width: 317px;
+}
+
+.communitypagemobile .now-you-have-the-cha-n43rGZ {
+  background-color: transparent;
+  font-weight: 500;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  position: absolute;
+  text-align: left;
+  top: 956px;
+  width: 285px;
+}
+
+.communitypagemobile .rectangle-77wWJE {
+  background-color: #7abedb;
+  border-radius: 4px;
+  height: 42px;
+  left: 92px;
+  position: absolute;
+  top: 1043px;
+  width: 135px;
+}
+
+.communitypagemobile .rectangle-copy-4-n43rGZ {
+  background-color: #ff424d;
+  border-radius: 4px;
+  height: 42px;
+  left: 77px;
+  position: absolute;
+  top: 1618px;
+  width: 165px;
+}
+
+.communitypagemobile .become-a-patreon-n43rGZ {
+  background-color: transparent;
+  font-weight: 500;
+  height: auto;
+  left: 102px;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  position: absolute;
+  text-align: left;
+  top: 1630px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.communitypagemobile .submit-n43rGZ {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-futura-medium);
+  font-size: var(--font-size-l);
+  font-weight: 500;
+  height: auto;
+  left: 135px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 1054px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.communitypagemobile .become-a-patreon-mem-n43rGZ {
+  background-color: transparent;
+  font-weight: 500;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  position: absolute;
+  text-align: left;
+  top: 1488px;
+  width: 285px;
+}
+
+.communitypagemobile .footer-mobile-OBeZAs {
+  align-items: center;
+  background-color: var(--oxford-blue);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 0px;
+  min-height: 689px;
+  padding: 31px 0;
+  position: relative;
+  width: 320px;
+}
+
+.communitypagemobile .logo-3HcRTU {
+  align-self: flex-start;
+  background-color: transparent;
+  background-image: url(../img/character-page-mobile-purple-84A9FF40-81F6-472D-A5D9-7C4529CAD2B1@2x.png);
+  background-size: 100% 100%;
+  flex-shrink: 1;
+  height: 60px;
+  margin-left: 18px;
+  margin-top: 0px;
+  position: relative;
+  width: 135px;
+}
+
+.communitypagemobile .join-my-newsletter-t-3HcRTU {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 400;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  margin-right: 1.0px;
+  margin-top: 20px;
+  min-height: 34px;
+  min-width: 285px;
+  position: relative;
+  text-align: justify;
+  width: 285px;
+}
+
+.communitypagemobile .overlap-group-3HcRTU {
+  align-items: flex-end;
+  background-color: var(--gallery);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 30px;
+  justify-content: flex-start;
+  margin-right: 1.0px;
+  margin-top: 18px;
+  min-width: 285px;
+  padding: 5px 13px;
+  position: relative;
+  width: auto;
+}
+
+.communitypagemobile .email-address-h7xx3Y {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  margin-left: 0px;
+  min-height: 19px;
+  min-width: 114px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: auto;
+}
+
+.communitypagemobile .overlap-group1-3HcRTU {
+  align-items: center;
+  background-color: var(--jaffa);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 25px;
+  justify-content: flex-end;
+  margin-right: 1.0px;
+  margin-top: 0px;
+  min-width: 285px;
+  padding: 0 111px;
+  position: relative;
+  width: auto;
+}
+
+.communitypagemobile .subscribe-MRs9PO {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  min-height: 21px;
+  min-width: 62px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.communitypagemobile .home-3HcRTU {
+  align-self: flex-start;
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  margin-left: 17px;
+  margin-top: 35px;
+  min-height: 19px;
+  min-width: 40px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: auto;
+}
+
+.communitypagemobile .line-3HcRTU {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 2px;
+  margin-top: 8px;
+  position: relative;
+  width: 287px;
+}
+
+.communitypagemobile .read-3HcRTU {
+  align-self: flex-start;
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  margin-left: 17px;
+  margin-top: 8px;
+  min-height: 19px;
+  min-width: 35px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: auto;
+}
+
+.communitypagemobile .line-copy-3HcRTU {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 2px;
+  margin-top: 8px;
+  position: relative;
+  width: 287px;
+}
+
+.communitypagemobile .flex-row-3HcRTU {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 19px;
+  justify-content: flex-start;
+  margin-right: 1.0px;
+  margin-top: 8px;
+  min-width: 285px;
+  position: relative;
+  width: auto;
+}
+
+.communitypagemobile .lore-QLbIb7 {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  min-height: 19px;
+  min-width: 30px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: auto;
+}
+
+.communitypagemobile .add_circle_outline-copy-2-QLbIb7 {
+  background-color: transparent;
+  background-image: url(../img/store-page-mobile-shape-FA581084-19A3-49F2-B232-3B86E3B17009@2x.png);
+  background-size: 100% 100%;
+  flex-shrink: 1;
+  height: 10px;
+  margin-left: 245px;
+  position: relative;
+  width: 10px;
+}
+
+.communitypagemobile .line-copy-2-3HcRTU {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 2px;
+  margin-top: 8px;
+  position: relative;
+  width: 287px;
+}
+
+.communitypagemobile .flex-row-ReV37j {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 19px;
+  justify-content: flex-start;
+  margin-right: 1.0px;
+  margin-top: 8px;
+  min-width: 285px;
+  position: relative;
+  width: auto;
+}
+
+.communitypagemobile .store-yiOZ50 {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  min-height: 19px;
+  min-width: 36px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: auto;
+}
+
+.communitypagemobile .add_circle_outline-copy-3-yiOZ50 {
+  background-color: transparent;
+  background-image: url(../img/store-page-mobile-shape-FA581084-19A3-49F2-B232-3B86E3B17009@2x.png);
+  background-size: 100% 100%;
+  flex-shrink: 1;
+  height: 10px;
+  margin-left: 239px;
+  position: relative;
+  width: 10px;
+}
+
+.communitypagemobile .line-copy-3-3HcRTU {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 2px;
+  margin-top: 8px;
+  position: relative;
+  width: 287px;
+}
+
+.communitypagemobile .flex-row-GJE9uV {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 19px;
+  justify-content: flex-start;
+  margin-right: 1.0px;
+  margin-top: 8px;
+  min-width: 285px;
+  position: relative;
+  width: auto;
+}
+
+.communitypagemobile .community-L9CI8l {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  min-height: 19px;
+  min-width: 73px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: auto;
+}
+
+.communitypagemobile .add_circle_outline-copy-4-L9CI8l {
+  background-color: transparent;
+  background-image: url(../img/store-page-mobile-shape-FA581084-19A3-49F2-B232-3B86E3B17009@2x.png);
+  background-size: 100% 100%;
+  flex-shrink: 1;
+  height: 10px;
+  margin-bottom: 1px;
+  margin-left: 202px;
+  position: relative;
+  width: 10px;
+}
+
+.communitypagemobile .line-copy-4-3HcRTU {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 2px;
+  margin-top: 8px;
+  position: relative;
+  width: 287px;
+}
+
+.communitypagemobile .flex-row-C2HxAx {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 19px;
+  justify-content: flex-start;
+  margin-right: 1.0px;
+  margin-top: 8px;
+  min-width: 285px;
+  position: relative;
+  width: auto;
+}
+
+.communitypagemobile .about-HYi6kN {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  min-height: 19px;
+  min-width: 41px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: auto;
+}
+
+.communitypagemobile .add_circle_outline-copy-5-HYi6kN {
+  background-color: transparent;
+  background-image: url(../img/store-page-mobile-shape-FA581084-19A3-49F2-B232-3B86E3B17009@2x.png);
+  background-size: 100% 100%;
+  flex-shrink: 1;
+  height: 10px;
+  margin-bottom: 1px;
+  margin-left: 234px;
+  position: relative;
+  width: 10px;
+}
+
+.communitypagemobile .line-copy-5-3HcRTU {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 2px;
+  margin-top: 8px;
+  position: relative;
+  width: 287px;
+}
+
+.communitypagemobile .facebook-container-3HcRTU {
+  align-items: flex-start;
+  align-self: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 20px;
+  justify-content: flex-start;
+  margin-left: 17px;
+  margin-top: 28px;
+  min-width: 99px;
+  position: relative;
+  width: auto;
+}
+
+.communitypagemobile .facebook-in1xwM {
+  background-color: transparent;
+  background-image: url(../img/world-page-mobile-path-91CECC77-1C3C-4870-97D5-486B414B5CF9@2x.png);
+  background-size: 100% 100%;
+  flex-shrink: 1;
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.communitypagemobile .facebook-MJxu00 {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  margin-left: 14px;
+  min-height: 19px;
+  min-width: 65px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: auto;
+}
+
+.communitypagemobile .instagram-container-3HcRTU {
+  align-items: flex-end;
+  align-self: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 20px;
+  justify-content: flex-start;
+  margin-left: 17px;
+  margin-top: 23px;
+  min-width: 99px;
+  position: relative;
+  width: auto;
+}
+
+.communitypagemobile .instagram-s6xX7m {
+  align-items: flex-start;
+  background-color: transparent;
+  background-image: url(../img/lore-page-mobile-shape-DBC0EE37-B1C2-4711-AB27-5FBF42870FB7@2x.png);
+  background-size: 100% 100%;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 20px;
+  justify-content: flex-end;
+  min-width: 20px;
+  padding: 4px;
+  position: relative;
+  width: auto;
+}
+
+.communitypagemobile .shape-Zcngkt {
+  align-self: center;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 10px;
+  position: relative;
+  width: 10px;
+}
+
+.communitypagemobile .oval-Zcngkt {
+  background-color: var(--white);
+  border-radius: 1px;
+  flex-shrink: 1;
+  height: 1px;
+  margin-left: 0px;
+  position: relative;
+  width: 1px;
+}
+
+.communitypagemobile .instagram-QMW2N8 {
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  margin-left: 14px;
+  min-height: 19px;
+  min-width: 65px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: auto;
+}
+
+.communitypagemobile .x2021-olga-andreyev-3HcRTU {
+  align-self: flex-start;
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  margin-left: 17px;
+  margin-top: 37px;
+  min-height: 14px;
+  min-width: 236px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: auto;
+}
+
+.communitypagemobile .privacy-policy-3HcRTU {
+  align-self: flex-start;
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  margin-left: 17px;
+  margin-top: 11px;
+  min-height: 18px;
+  min-width: 112px;
+  position: relative;
+  text-align: justify;
+  width: 112px;
+}
+
+.communitypagemobile .terms-conditions-3HcRTU {
+  align-self: flex-start;
+  background-color: transparent;
+  flex-shrink: 1;
+  font-weight: 500;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  margin-left: 17px;
+  margin-top: 6px;
+  min-height: 14px;
+  min-width: 99px;
+  position: relative;
+  text-align: justify;
+  white-space: nowrap;
+  width: auto;
+}
