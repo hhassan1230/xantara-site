@@ -37,10 +37,12 @@
   pointer-events: auto;
 }
 
-.valign-text-middle {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
+@media (max-width: 515px) {
+  .valign-text-middle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
 }
 
 * {

@@ -1,7 +1,9 @@
-:root { 
+:root {
   --aqua-pearl: #77bfda;
   --aqua-pearl-2: #7abedb;
   --black: #000000;
+  --black-2: #00000066;
+  --chicago: #5c5b5b7f;
   --dove-gray: #6a6a6a;
   --electric-violet: #8a01e8;
   --gallery: #f0f0f0;
@@ -16,7 +18,7 @@
   --silver-chalice: #b0adad;
   --tuscany: #bd6d2b;
   --white: #ffffff;
- 
+
   --font-size-l: 20px;
   --font-size-m: 18px;
   --font-size-s: 16px;
@@ -24,7 +26,7 @@
   --font-size-xs: 14px;
   --font-size-xxl: 36px;
   --font-size-xxs: 12px;
- 
+
   --font-family-futura-bold: "Futura-Bold", Helvetica;
   --font-family-futura-condensedmedium: "Futura-CondensedMedium", Helvetica;
   --font-family-futura-medium: "Futura-Medium", Helvetica;
@@ -36,6 +38,7 @@
   --font-family-helvetica-bold: "Helvetica-Bold", Helvetica;
   --font-family-helveticaneue-medium: "HelveticaNeue-Medium", Helvetica;
 }
+
 .learn-more-about-the-style {
   font-family: var(--font-family-futura-medium);
   font-size: var(--font-size-m);
@@ -211,7 +214,4 @@
 
 .border-1px-mountain-mist {
   border: 1px solid var(--mountain-mist);
-}
-
-:root {
 }
