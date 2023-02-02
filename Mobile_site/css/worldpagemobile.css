@@ -528,7 +528,7 @@
   /* Mobile region container END */
 
 
-          .worldpage .footer-mobile {
+          .footer-mobile {
             align-items: center;
                 background-color: var(--oxford-blue);
                 box-sizing: border-box;
@@ -1079,7 +1079,6 @@
 
 /* Desktop CSS */
 @media screen and (min-width: 516px) {
-
   .worldpage {
     background-color: var(--white);
     height: 1623px;
@@ -1127,7 +1126,7 @@
   }
 
 .footer-mobile{
-  displa: none;
+  display: none;
 }
 
  .footer-desktop {
