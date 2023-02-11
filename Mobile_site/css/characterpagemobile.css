@@ -1,9 +1,9 @@
 /* screen - characterpagemobile */
 
+/* Mobile CSS */
       @media (max-width: 515px) {
 
-/* desktop nav and footer dives to be hidden below*/
-
+/* desktop nav and footer divs will be hidden when in mobile views*/
           .nav-links-tFtDGi{
             display: none;
           }
@@ -15,7 +15,6 @@
             display: none;
 
           }
-
 
           .characterpage {
             align-items: flex-start;
@@ -174,25 +173,16 @@
           .characterpage .rectangle-copy-3-tFtDGi {
             background-color: transparent;
             height: 59px;
-            left: 237px;
+            left: 232px;
             position: absolute;
             top: 171px;
-            width: 70px;
-          }
-
-          .characterpage .rectangle-copy-3-tFtDGi {
-            background-color: transparent;
-            height: 59px;
-            left: 312px;
-            position: absolute;
-            top: 169px;
             width: 70px;
           }
 
           .characterpage .rectangle-copy-2-tFtDGi{
             background-color: transparent;
             height: 59px;
-            left: 162px;
+            left: 123px;
             position: absolute;
             top: 171px;
             width: 70px;
@@ -201,7 +191,7 @@
           .characterpage .rectangle-gpDxZI {
             background-color: transparent;
             height: 59px;
-            left: 87px;
+            left: 52px;
             position: absolute;
             top: 171px;
             width: 70px;
