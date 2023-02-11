@@ -1451,8 +1451,8 @@
 /* Mobile CSS */
                @media screen and (max-width: 515px) {
           body .container-center-horizontal{
-                justify-content: start;
-                margin-left: -18px;
+                justify-content: center;
+                /* margin-left: -18px; */
               }
 
               .aboutpage1 {
@@ -1460,19 +1460,19 @@
                 height: 2010px;
                 position: relative;
                 width: auto;
-                /* width: 320px; */
+                width: 320px;
                 /* overflow-x: hidden; */
               }
 
               .aboutpage1 .overlap-group7-rRG00M {
                 align-self: flex-start;
                 background-color: transparent;
-                background-image: url(../img/character-page-mobile-purple-84A9FF40-81F6-472D-A5D9-7C4529CAD2B1@2x.png);
+                /* background-image: url(../img/character-page-mobile-purple-84A9FF40-81F6-472D-A5D9-7C4529CAD2B1@2x.png); */
                 background-size: 100% 100%;
                 flex-shrink: 1;
                 height: 60px;
-                margin-left: 18px;
-                margin-top: 0px;
+                /* margin-left: 18px; */
+                /* margin-top: 0px; */
                 position: relative;
                 width: 135px;
               }
@@ -1480,11 +1480,10 @@
               .background-purple {
                 background: radial-gradient(50% 79%, rgba(75,29,93,0.14) 50%, rgba(51,23,74,0.69) 69%, #26143E 80%);
                 background-color: transparent;
-                flex-shrink: 1;
-                height: 2010px;
+                width: 750px;
+                margin: auto;
+                margin: auto;
                 position: relative;
-                /* width: 320px; */
-                width: 990px;
               }
 
               .aboutpage1 .inner-background {
@@ -1494,6 +1493,7 @@
                 height: 2775px;
                 position: relative;
                 width: auto;
+                left: 70px;
               }
 
               .aboutpage1 .logo {
@@ -1501,7 +1501,7 @@
                 background-image: url(../img/character-page-mobile-purple-84A9FF40-81F6-472D-A5D9-7C4529CAD2B1@2x.png);
                 background-size: 100% 100%;
                 height: 173px;
-                left: 370px;
+                left: 246px;
                 position: absolute;
                 top: 27px;
                 width: 335px;
@@ -1513,8 +1513,8 @@
                 left: 27px;
                 position: absolute;
                 top: 240px;
-                /* top: 144px; */
-                width: 940px;
+                width: 754px;
+                /* left: 106px; */
               }
 
               .aboutpage1 .twitter-BL9glZ {
@@ -1522,7 +1522,7 @@
                 background-image: url(../img/about-page-3-path-36FACA80-892A-4172-9E52-4DF5928C70D3@2x.png);
                 background-size: 100% 100%;
                 height: 22px;
-                left: 552px;
+                left: 449px;
                 position: absolute;
                 top: 830px;
                 width: 27px;
@@ -1531,7 +1531,7 @@
               .aboutpage1 .oval-BL9glZ {
                 background-color: transparent;
                 height: 240px;
-                left: 417px;
+                left: 284px;
                 position: absolute;
                 top: 360px;
                 width: 240px;
@@ -1542,7 +1542,7 @@
                 font-weight: 700;
                 font-size: 50px;
                 height: auto;
-                left: 364px;
+                left: 223px;
                 letter-spacing: 0.00px;
                 line-height: 42px;
                 position: absolute;
@@ -1568,20 +1568,20 @@
                 font-size: var(--font-size-xl);
                 font-weight: 700;
                 height: auto;
-                left: 283px;
+                left: 114px;
                 letter-spacing: 0.00px;
                 line-height: 28px;
                 position: absolute;
                 text-align: justify;
                 top: 615px;
-                width: 500px;
+                width: 600px;
               }
 
               .aboutpage1 .follow-me-on-social-BL9glZ {
                 background-color: transparent;
                     font-weight: 700;
                     height: auto;
-                    left: 436px;
+                    left: 311px;
                     letter-spacing: 0.00px;
                     line-height: 26px;
                     position: absolute;
@@ -1596,7 +1596,7 @@
                 background-image: url(../img/about-page-1-path-EBE76F21-5839-49D2-BB00-33AB1EA92ABE@2x.png);
                 background-size: 100% 100%;
                 height: 26px;
-                left: 470px;
+                left: 329px;
                 position: absolute;
                 top: 830px;
                 width: 26px;
@@ -1628,7 +1628,7 @@
                 flex-direction: column;
                 height: auto;
                 justify-content: flex-start;
-                left: 512px;
+                left: 389px;
                 min-height: 26px;
                 padding: 5px;
                 position: absolute;
@@ -1659,7 +1659,7 @@
               .aboutpage1 .line-5-BL9glZ {
                 background-color: transparent;
                 height: 5px;
-                left: 434px;
+                left: 308px;
                 position: absolute;
                 top: 820px;
                 width: 184px;
@@ -1668,11 +1668,11 @@
               .aboutpage1 .faq-container {
                 background-color: var(--electric-violet);
                 height: 700px;
-                left: 27px;
                 position: absolute;
                 top: 865px;
-                width: 940px;
                 display: flex;
+                width: 754px;
+                left: 27px;
               }
 
               .aboutpage1 .overlap-group1-IT6IrA {
@@ -1683,7 +1683,7 @@
                 width: 242px;
               }
 
-              .overlap-group7-rRG00M .faq-column-1 {
+               .faq-column-1 {
                 align-items: flex-start;
                 background-color: transparent;
                 box-sizing: border-box;
@@ -1691,7 +1691,7 @@
                 flex-direction: column;
                 height: 500px;
                 justify-content: flex-start;
-                left: 258px;
+                left: 108px;
                 /* min-width: 836px; */
                 position: absolute;
                 top: 925px;
@@ -1803,7 +1803,7 @@
                     flex-direction: column;
                     height: auto;
                     justify-content: right;
-                    padding-right: 23px;
+                    padding-right: 127px;
                     min-width: 836px;
                     position: absolute;
                     top: 925px;
@@ -1918,8 +1918,9 @@
                 background-color: transparent;
                 font-size: var(--font-size-xxxl);
                 font-weight: 700;
+                color: #f0f0f0;
                 height: auto;
-                left: 482px;
+                left: 362px;
                 letter-spacing: 0.00px;
                 line-height: 53px;
                 position: absolute;
@@ -1933,10 +1934,10 @@
                 background-color: var(--oxford-blue);
                 box-shadow: 0px 0px 4px #00000080;
                 height: 750px;
-                left: 27px;
                 position: absolute;
                 top: 1552px;
-                width: 940px;
+                width: 755px;
+                left: 26px;
               }
 
               .aboutpage1 .want-to-get-in-touch-BL9glZ {
@@ -1944,7 +1945,7 @@
                 font-size: var(--font-size-xxxl);
                 font-weight: 700;
                 height: auto;
-                left: 368px;
+                left: 252px;
                 letter-spacing: 0.00px;
                 line-height: 53px;
                 position: absolute;
@@ -1957,7 +1958,7 @@
               .aboutpage1 .rectangle-5tC9SJ {
                 background-color: #717ba2;
                 height: 40px;
-                left: 255px;
+                left: 138px;
                 position: absolute;
                 top: 1649px;
                 width: 558px;
@@ -1972,7 +1973,7 @@
                 flex-direction: row;
                 height: 50px;
                 justify-content: flex-end;
-                left: 375px;
+                left: 263px;
                 min-width: 140px;
                 padding: 0 34px;
                 position: absolute;
@@ -1999,7 +2000,7 @@
               .aboutpage1 .rectangle-copy-BL9glZ {
                 background-color: #717ba2;
                 height: 40px;
-                left: 255px;
+                left: 138px;
                 position: absolute;
                 top: 1713px;
                 width: 559px;
@@ -2009,7 +2010,7 @@
                 background-color: transparent;
                 font-weight: 700;
                 height: auto;
-                left: 260px;
+                left: 138px;
                 letter-spacing: 0.00px;
                 line-height: 28px;
                 position: absolute;
@@ -2022,7 +2023,7 @@
               .aboutpage1 .message-container {
                 background-color: #717ba3;
                 height: 206px;
-                left: 255px;
+                left: 138px;
                 position: absolute;
                 top: 1782px;
                 width: 559px;
@@ -2032,7 +2033,7 @@
                 background-color: transparent;
                 font-weight: 700;
                 height: auto;
-                left: 260px;
+                left: 138px;
                 letter-spacing: 0.00px;
                 line-height: 28px;
                 position: absolute;
@@ -2046,7 +2047,7 @@
                 background-color: transparent;
                 font-weight: 700;
                 height: auto;
-                left: 260px;
+                left: 138px;
                 letter-spacing: 0.00px;
                 line-height: 28px;
                 position: absolute;
@@ -2217,11 +2218,11 @@
                 flex-direction: column;
                 height: auto;
                 justify-content: flex-start;
-                left: 44px;
                 padding: 31px 0;
                 position: absolute;
                 top: 2104px;
-                width: 940px;
+                width: 755px;
+                left: 26px;
               }
 
               /* Desktop footer */
